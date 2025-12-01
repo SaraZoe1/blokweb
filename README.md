@@ -16,14 +16,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Sara Zoë Wammes
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
-
+  Blauw
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
- 
+  Surface Plane
 </details>
 
 
@@ -36,7 +34,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://visitporto.travel/pt-PT
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
@@ -53,6 +51,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
+  Ik heb een nieuwe website gekozen (Ik moet dit opnieuw doen)
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
@@ -88,7 +87,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Gezien ik vorig jaar al iets heb gedaan met code, was het begin redelijk makkelijk, al moet ik wel zeggen dat ik wel moest inkomen. De twijvel zit em vooral bij het gebruik van sections en articles. De studenten assistenten hebben mij goed geholpen met wat ik het best kon gebruiken en waar toe te passen 
 
 
   ### Agenda voor meeting
