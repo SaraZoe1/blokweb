@@ -16,12 +16,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Zoë Wammes
 
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Surface plane
  
 </details>
 
@@ -35,7 +35,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://visitporto.travel/en-GB#
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
@@ -87,15 +87,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Bij de eerste voortgang gesprek, ging de html best goed, ik was nog niet begonnen aan de css, maar dat hoefte ook niet. Ik had niet zoveel vragen. Meer of mijn opbouw een beetje goed was en of ik articles en sections goed heb gebruikt.Zo bleek uiteindelijk dat het beter was om Li's in mijn geval te gebruiken ipv articles. en dit had ik dan ook aangepast
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  |dit bespreken  | en dit             | en ik dit    | en dan ik da.       |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
@@ -120,7 +119,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik had hier vooral vragen over de CSS en of ik goed op weg was. Ik had met de CSS vooral moeite omdat ik niet zo goed wist of ik nou echt goed op weg was. Dit was wel zo en ik ben hier uit verder gegaan. Er zijn een paar elementen een beetje op geschoont, maar naar mijn idee was er niet veel op aangemerkt. 
 
 
   ### Agenda voor meeting
@@ -167,26 +166,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  De html en css voor de eerste pagina waren hier zo goed als af. Ik moest nog beginnen aan mijn tweede pagina omdat ik bang was dat het te generiek was aan elkaar. Maar met behulp van davis is het goed gelukt, en is het mij makkelijker gemaakt. 
+  David heeft mij geholpen om een soort carrousel te maken en de li's te linken aan de de li's waar de informatie in staat. 
+  Ook heeft david mij uitgelegd hoe ik makkelijk tekst op de afbeeldingen kan zetten. 
+
+  David heeft mij een hele breakdown gegeven van bijde onderdelen en hoe je het moet doen, en ik heb het verder gestileerd in de css 
+  
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  niemand van mijn groepje was hier bij dus ik heb geen idee of zij nog wat hebben gevraagd... 
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  er is gekeken naar hoe ik mijn html het beste kon opstellen voor de 2e pagina. En duidelijk uitgelegd wat ik het beste kan doen. Verder is er niet veel besproken, en ben ik vooral gewoon geholpen, zodat ik meteen kon beginnen aan mijn tweede pagina. 
 
 </details>
 
@@ -228,8 +223,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Alle afbeeldingen en content komen van de visit porto pagina zelf. https://visitporto.travel/en-GB
+  2. Ik heb de eerste foto van de hoofdpagina van https://www.musement.com/nl/porto/torre-dos-clerigos-v/
+  3. oefeningen code-pen
+  4. Hamburger menu: david https://codepen.io/Dave-deo/pen/EaKpLWj
+  5. scroll tabs: david https://codepen.io/Dave-deo/pen/XJdybrr
+
+  5. hulp css en html: david en maya
 
 </details>
