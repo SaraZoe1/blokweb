@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Homepage-Porto.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Pagina-2_Visit-Porto.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -53,9 +53,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  <img src="readme-images/Screenshot_1.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Screenshot_2.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Screenshot_3.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Screenshot_4.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Screenshot_10.png" width="375px" alt="omschrijving van de pagina">
+  
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+
+  Skip link aanwezig
+  Lang attribuut correct (en-GB)
+  Responsive design
+  Keyboard navigatie werkt
+  Alt-attributen ontbreken bij afbeeldingen
 
 </details>
 
@@ -67,13 +79,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/sketch.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/sketch2.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 </details>
 
@@ -144,9 +153,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
-
+<img src="readme-images/Screenshot_6.png" width="375px" alt="omschrijving van de pagina">
+<img src="readme-images/Screenshot_7.png" width="375px" alt="omschrijving van de pagina">
+<img src="readme-images/Screenshot_8.png" width="375px" alt="omschrijving van de pagina">
+<img src="readme-images/Screenshot_9.png" width="375px" alt="omschrijving van de pagina">
+<img src="readme-images/Screenshot_10.png" width="375px" alt="omschrijving van de pagina">
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is)
+  
+  Tekst op fotos, zijn ook echt teksten op de fotos en geen plaatjes
+  De HTML is semantisch correct
+  Er zijn alt teksten toegevoegd en alle images zijn voorzien
+  van een beschrijving
+
+  er is geen skiplink aanwezig
+  de html is foutloos
+
 
 </details>
 
@@ -189,19 +211,34 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/screenshot-14.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/screenshot-15.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/screenshot-16.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/screenshot-17.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/screenshot-18.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/screenshot-19.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/screenshot-20.png" width="375px" alt="uitomst opdracht 1">
+
+
+
+
+
+
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik heb eigelijk best veel geleerd. Vooral het gebruik van nth-of-type etc, heb ik voor mijn gevoel goed onder de knie gekregen. Ook heb ik geleerd hoe je met display: flex; en overflow: auto; iets scrollbaar kan maken. En door gebruik te maken van flex: shrink; je er voor kan zorgen dat de afbeeldingen een vast formaat behouden. Ook vond ik het echt leuk om dingen te animeren in de css en zou er wel nog beter in kunnen worden. Gelukkig hadden we voorbeelden in codepen die we konden na maken, dus die hebben ook echt goed geholpen
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/screenshot-21.png" width="375px" alt="top">
+  <img src="readme-images/screenshot-22.png" width="375px" alt="top">
+
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Hamburger menu, gelukkig is dit wel gelukt. Maar ik vond het best lastig te begrijpen en toe te passen. Ik heb gelukkig wel goed hulp gekregen er mee. Ook was het de bedoeling om bij de 2e sections in mijn main de tekst op de plaatsjes te krijgen maar dat is niet gelukt helaas.
+  En wegens de tijd heb ik het ook gelaten, en ben ik verder gegaan met de dingen die wel lukken. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/screenshot-12.png" width="375px" alt="bummer">
 </details>
 
 
