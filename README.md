@@ -94,8 +94,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Zoë      | Nathan          |Tess    | Artemis        |
   | ---            | ---                | ---          | ---              |
-  |Voortgang, niks 
-  specifieks       | voortgang | Voortgang    | Voortgang       |
+  |Voortgang, niks specifieks       | voortgang | Voortgang    | Voortgang       |
   |  | Html | Html | |
   | ...            | ...                | ...          | ...              |
 
@@ -103,10 +102,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - De site die ik had gekozen was prima.
+  - Van articals ul's en li's maken, gezien het onderdeel uit maakt van een groter onderdeel "attractions"
+ - Ik had verder nog niet zo veel, dus er zijn ook niet veel uitkomsten uit gekomen 
 
 </details>
 
@@ -126,20 +124,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Zoë      | Nathan         | Tess   | Artemis        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Voortgang  | Voortgang            | Voortang   |     |
+  |CSS | CSS |  |  |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  De css zag er goed uit en was niet veel op aan te merken 
 
 </details>
 
