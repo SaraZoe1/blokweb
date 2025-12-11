@@ -363,7 +363,7 @@ header:has(nav.active) button span:nth-of-type(3) {
 .homepage section:nth-of-type(3)>a:hover {
     background-color:var(--color-link-hover); 
     color: var(--color-text-light);
-    transform: scale(1.05); /
+    transform:scale(1.05); 
 }
 
 /* section 4 */
@@ -389,7 +389,7 @@ header:has(nav.active) button span:nth-of-type(3) {
 .homepage section:nth-of-type(4)>p:first-of-type {
     font-weight: 300;
     text-align: start;
-    color: var(aragraphs);
+    color: var(--color-text-paragraphs);
     margin-bottom: 1em;
 }
 
@@ -671,7 +671,7 @@ footer>section img {
 
 .pagina section:nth-of-type(4) p {
     font-size: 1.75em;
-    color: var(---color-text-headings);
+    color: var(--color-text-headings);
     line-height: 1.4;
     margin-top: 1em;
 }
