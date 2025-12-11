@@ -92,11 +92,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Zoë      | Nathan          |Tess    | student 4        |
+  | Zoë      | Nathan          |Tess    | Artemis        |
   | ---            | ---                | ---          | ---              |
   |Voortgang, niks 
-  specifieks       | voortgang | en ik dit    | en dan ik da.       |
-  | en dat ook nog | Html | nog een punt | dit wil ik  |
+  specifieks       | voortgang | Voortgang    | Voortgang       |
+  |  | Html | Html | |
   | ...            | ...                | ...          | ...              |
 
 
